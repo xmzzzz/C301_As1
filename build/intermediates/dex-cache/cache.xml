@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\2c62d08a085c920b98e03c9f2299612dd7ce3305\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad97f612e05f08ef1b999809fafd9248c605c387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.gradle\caches\modules-2\files-2.1\io.github.openfeign\feign-gson\9.5.1\dfafea65960ae06a1e1428164b84fccbfc738832\feign-gson-9.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dfafea65960ae06a1e1428164b84fccbfc738832">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\feign-gson-9.5.1_edc042208c868f6b403b399609f33133b2dcd15d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_af911be80aebd80168dd8b73aa2e2a394b3b07cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\694a08600dac87d2a9db8ac44157b2b2890e5fe7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26143ceb023d4aed36c49efdb5861e1f3c4b0719\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="321cf869a8799ef86dfb5dada0e340508c68095f">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_34a5677924cdc53ee551b67f92a1304d594b29e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\21f24c1b3f66b894e15278a73b512849090c2487\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_493d41555da707419fb69accf98667c687459333\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\e4b7185f1598d7089d9045547cfd4390058a180f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a77bf08024494c5b83c5c818bac259d39127d47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\ac1e1fb71dc34a33a810d4d061f8c2d2888d5c24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_503962eb7ded4f125e0f57a4d155a0ec0fcee155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_f17404a459451ee6e861e3473764c689598949fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\49d76a87fae26c74a3518ae0b8d9d2af41598535\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f620254a7405f534fc9f888a16d5da24a684a0c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\792cfe3513a31f9ded02a134b62f7ce05899ee90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68dba881f173e734f8accb731e5b88aa9222da16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_78dc39c64e74643daa5b204c1fe4b0625e38d3d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\edc220324a02968f9ba93cd993bc0d0687ed623b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85a015ed8b72298ba472da66ed22392cd0b394fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.gradle\caches\modules-2\files-2.1\io.github.openfeign\feign-core\9.5.1\590613b1bd18ec0396391fb259e00b7d685ee3e6\feign-core-9.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="590613b1bd18ec0396391fb259e00b7d685ee3e6">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\feign-core-9.5.1_224d959e12707d051fd5e9a0239058e8c064b522\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\2c680af73183ac08af76d30c8907802a996ffb8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4353f8a13e0a83e17e74274fbc59ee1007640c62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\.android\build-cache\03146776327c3684ec3bc625ae1d08abf51e0d62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30968dbcf40003d07fafdcad85bf00bc9ee23343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simone\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\java-8-oracle\guanfang_CountBook-guanfang-CountBook\guanfang_CountBook-guanfang-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_1b01c237582a937cbbf356db57dd423837312791\classes.dex" />
+    </item>
+
+</items>
